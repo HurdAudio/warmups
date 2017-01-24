@@ -1,0 +1,31 @@
+.navbar {
+  background-color: red;
+  color: white;
+  height: 40px;
+  font-family: helvetica;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  display: inline-grid;
+  float: right;
+  margin: auto;
+
+}
+
+
+.navbar h4 {
+  margin-left: 23px;
+  margin-top: 7px;
+  padding-top: 11px;
+  padding-bottom: 7px;
+  vertical-align: center;
+}
+
+.navbar ul {
+  display: right:
+  -webkit-align-items: right;
+      -ms-flex-align: right;
+          align-items: right;
+  color: black;
+
+}

@@ -1,0 +1,74 @@
+footer {
+  background: #414042;
+  padding: 20px 0;
+  width: 100%;
+  position: fixed;
+  display: block;
+  bottom: 0;
+}
+
+.logo {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.footerLogoDiv {
+  max-width: 1110px;
+  margin: auto;
+}
+
+.address {
+  font-family: "news-gothic-std",sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #909091;
+  font-weight: 300;
+}
+
+.phone {
+  color: #fff;
+  margin: 20px 0;
+  font-weight: 300;
+  font-family: "news-gothic-std",sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  color: white;
+  font-weight: 300;
+}
+
+.socialIcons {
+  content: normal;
+  font-family: "news-gothic-std",sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #414042;
+  padding: 1px;
+  margin: auto;
+  display: block;;
+}
+
+.googleTranslate {
+  background-color: #fff;
+  border-left: 1px solid #d5d5d5;
+  border-top: 1px solid #9b9b9b;
+  border-bottom: 1px solid #e8e8e8;
+  border-right: 1px solid #d5d5d5;
+  font-size: 10pt;
+  display: inline-block;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  cursor: pointer;
+  zoom: 1;
+}
+
+.footerCopy {
+  background: #fff;
+  font-family: "news-gothic-std",sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: center;
+  clear: both;
+  line-height: 0;
+}
